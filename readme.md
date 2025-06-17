@@ -23,11 +23,11 @@ AICup_2025_tabletennis/
 git clone https://github.com/GISH123/AICup_2025_tabletennis.git
 
 # 2. 建立並啟用 Conda 環境
-conda create -n aicup2025 python=3.10 -y
+conda create -n aicup2025 python=3.10 -y  
 conda activate aicup2025
 
 # 3. 安裝依賴
-pip install -r requirements.txt
+pip install -r requirements.txt  
 GPU 使用者：LightGBM 4.6.0 wheel 已支援 CUDA。若想啟用 GPU，請確定已安裝對應版本的 CUDA 與 cuDNN。
 
 
