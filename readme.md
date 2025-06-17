@@ -9,7 +9,7 @@ TEAM_7697 競賽解法
 ## 目錄結構
 
 AICup_2025_tabletennis/  
-├
+├  
 ├─ 20250601_o3_new_holdout_gish_0.85495208.ipynb # 主訓練 + 推論腳本  
 ├─ 競賽報告與程式碼TEAM_7697桌球智慧球拍資料的精準分析競賽.docx # 第二階段競賽文件報告  
 ├─ 39_Training_Dataset/ # 官方訓練資料（自行下載放置）  
